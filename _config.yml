@@ -9,7 +9,7 @@ palette: green
 header:
   title: Zinkki
   logo_img: images/logo.svg
-  logo_img_alt: Ampersand Logo
+  logo_img_alt: Zinkki Logo
   has_nav: true
   nav_links:
     - label: Home
